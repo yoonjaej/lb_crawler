@@ -1,3 +1,13 @@
+"""
+Lemonbase Review Crawler
+
+- Logs into Lemonbase using credentials from environment variables.
+- Crawls all review URLs from the paginated review list.
+- For each review, follows any redirects and checks if the final page is a shared-review page.
+- Extracts review texts from shared-review pages and saves each to a separate file in shared_reviews/.
+- Includes a test mode for crawling a single shared-review URL for debugging.
+"""
+
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,21 +18,34 @@ from selenium.webdriver.support import expected_conditions as EC
 from dotenv import load_dotenv
 from urllib.parse import urljoin
 import time
+import tempfile
+from glob import glob
+import getpass
 
-# Load credentials from .env or environment
+# Load credentials from environment variables only
+def prompt_for_credentials():
+    print('LEMONBASE_EMAIL and/or LEMONBASE_PASSWORD not set. Please enter your credentials:')
+    email = input('Lemonbase Email: ').strip()
+    password = getpass.getpass('Lemonbase Password: ')
+    os.environ['LEMONBASE_EMAIL'] = email
+    os.environ['LEMONBASE_PASSWORD'] = password
+    return email, password
+
 load_dotenv()
 EMAIL = os.getenv('LEMONBASE_EMAIL')
 PASSWORD = os.getenv('LEMONBASE_PASSWORD')
 if not EMAIL or not PASSWORD:
-    print('Error: LEMONBASE_EMAIL and LEMONBASE_PASSWORD environment variables must be set.')
-    exit(1)
+    EMAIL, PASSWORD = prompt_for_credentials()
 
 LOGIN_URL = 'https://lemonbase.com/login'
 REVIEWS_URL = 'https://lemonbase.com/app/reviews?page=1'
 BASE_URL = 'https://lemonbase.com'
 
-
 def login(driver):
+    """
+    Log in to Lemonbase using the provided Selenium driver.
+    Waits for the login page to load, enters credentials, and submits the form.
+    """
     driver.get(LOGIN_URL)
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.ID, 'email'))
@@ -39,8 +62,11 @@ def login(driver):
     )
     print('Login successful!')
 
-
-def crawl_reviews(driver):
+def crawl_review_urls(driver):
+    """
+    Crawl all paginated review list pages and extract review URLs.
+    Returns a list of absolute review URLs.
+    """
     driver.get(REVIEWS_URL)
     review_links = []
     while True:
@@ -54,6 +80,7 @@ def crawl_reviews(driver):
                 a_tag = tds[1].find_element(By.TAG_NAME, 'a')
                 href = a_tag.get_attribute('href')
                 if href:
+                    # Ensure absolute URL
                     review_links.append(href if href.startswith('http') else urljoin(BASE_URL, href))
         # Pagination: check for next page button
         try:
@@ -61,7 +88,7 @@ def crawl_reviews(driver):
             aria_disabled = next_btn.get_attribute('aria-disabled')
             if aria_disabled == 'true':
                 break
-            # Click next page
+            # Click next page and wait for table to refresh
             btn = next_btn.find_element(By.TAG_NAME, 'button')
             driver.execute_script('arguments[0].click();', btn)
             WebDriverWait(driver, 10).until(EC.staleness_of(rows[0]))
@@ -69,8 +96,14 @@ def crawl_reviews(driver):
             break
     return review_links
 
-
 def process_review_urls(driver, input_file='review_urls.txt', output_dir='shared_reviews'):
+    """
+    For each URL in input_file, open the URL, wait for any redirect, and check the final URL:
+    - If it contains 'shared-review', extract all <div class="css-1veelxu"> texts and save to a file in output_dir.
+    - If it contains 'write-review', skip.
+    - Otherwise, do nothing.
+    Diagnostic output is printed for each step.
+    """
     os.makedirs(output_dir, exist_ok=True)
     found_shared_review = False
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -85,6 +118,7 @@ def process_review_urls(driver, input_file='review_urls.txt', output_dir='shared
             continue
         if 'shared-review' in final_url:
             found_shared_review = True
+            # Extract review ID for filename (second-to-last path segment)
             review_id = final_url.rstrip('/').split('/')[-2] if final_url.rstrip('/').endswith('shared-review') else final_url.rstrip('/').split('/')[-1]
             filename = f'shared-review-{review_id}.txt'
             filepath = os.path.join(output_dir, filename)
@@ -96,6 +130,22 @@ def process_review_urls(driver, input_file='review_urls.txt', output_dir='shared
                 print(f"  Found {len(divs)} div.css-1veelxu elements")
                 if divs:
                     with open(filepath, 'w', encoding='utf-8') as out:
+                        # Extract headline from .css-tojoty .typography-headline6.grow FIRST
+                        headline_written = False
+                        try:
+                            headline_elems = driver.find_elements(By.CSS_SELECTOR, 'div.css-tojoty .typography-headline6.grow')
+                            if headline_elems:
+                                for headline_elem in headline_elems:
+                                    headline_text = headline_elem.text.strip()
+                                    if headline_text:
+                                        out.write('[Headline]\n' + headline_text + '\n---\n')
+                                        headline_written = True
+                                print(f'  Extracted {len(headline_elems)} headline(s) from css-tojoty')
+                            else:
+                                print('  No css-tojoty headline found on page')
+                        except Exception as e:
+                            print(f'  Error extracting css-tojoty headline: {e}')
+                        # Now write the review blocks
                         for div in divs:
                             text = div.text.strip()
                             if text:
@@ -110,24 +160,39 @@ def process_review_urls(driver, input_file='review_urls.txt', output_dir='shared
     if not found_shared_review:
         print("No shared-review pages were found after redirects.")
 
-
 def test_crawl_single_shared_review(driver, url):
+    """
+    Test utility: Log in and extract all <div class="css-1veelxu"> texts and <div class="css-tojoty"><div class="typography-headline6 grow">...</div></div> headlines from a single shared-review URL using process_review_urls logic.
+    Prints the extracted text blocks to stdout for verification.
+    """
     login(driver)
-    driver.get(url)
-    try:
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'div.css-1veelxu'))
-        )
-        divs = driver.find_elements(By.CSS_SELECTOR, 'div.css-1veelxu')
-        print(f"Extracted {len(divs)} text blocks from {url}:")
-        for i, div in enumerate(divs, 1):
-            text = div.text.strip()
-            print(f"--- Block {i} ---\n{text}\n")
-    except Exception as e:
-        print(f'Error processing {url}: {e}')
-
+    # Write the test URL to a temporary file
+    with tempfile.NamedTemporaryFile('w+', delete=False, encoding='utf-8') as tmp:
+        tmp.write(url + '\n')
+        tmp_path = tmp.name
+    output_dir = 'shared_reviews'
+    # Run the main extraction logic
+    process_review_urls(driver, input_file=tmp_path, output_dir=output_dir)
+    # Find the output file (should be only one new file)
+    time.sleep(1)  # Ensure file system sync
+    output_files = sorted(glob(os.path.join(output_dir, 'shared-review-*.txt')), key=os.path.getmtime, reverse=True)
+    if output_files:
+        print(f"\n--- Extracted output from {output_files[0]} ---\n")
+        with open(output_files[0], 'r', encoding='utf-8') as f:
+            print(f.read())
+    else:
+        print("No output file found in shared_reviews directory.")
+    # Clean up temp file
+    os.remove(tmp_path)
 
 def main():
+    """
+    Main workflow:
+    - Launch headless Chrome
+    - Log in to Lemonbase
+    - Crawl all review URLs and save to review_urls.txt
+    - For each review, follow redirects and extract shared-review texts to files
+    """
     chrome_options = Options()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
@@ -135,7 +200,7 @@ def main():
     driver = webdriver.Chrome(options=chrome_options)
     try:
         login(driver)
-        review_urls = crawl_reviews(driver)
+        review_urls = crawl_review_urls(driver)
         print(f"Found {len(review_urls)} reviews:")
         for url in review_urls:
             print(url)

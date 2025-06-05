@@ -1,0 +1,1030 @@
+[
+  {
+    "meeting_date": "Mar 20th (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "현재 회사 상황 공유",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "투자는 거의 완료 단계 -> 정말 특별한 일이 발생하지 않는 이상, 투자는 마무리 될 것\n2026년에는 Series B를 노릴 것, Series B의 요건은 BEP (연 매출 50억)\nBEP를 위해서는 1) 매출을 증가하는 것, 2) 비용을 줄이는 것\n\n1) 매출을 증가하기 위해서는, 새로운 유형의 고객 니즈를 소화 할 수 있어야 함. (고객의 모수를 늘려야 함)\n-> 정량평가, 업적기반 평가, 평가 사후 조망\n\n2) 비용을 줄이기 위해서는, 인력 감축 진행 중\n-> 능동적인 인력 감축은 아니고, 버스팩터가 다소 높았던 직무/역할에 대한 수동적인 감축 (나가는 것을 굳이 잡지는 않는다)\n\n3) 채용은 현재 프리징 상태이고, 몇몇 충원이 불가피한 역할 제외하고는 추가로 없을 것\n\n참고로, 일본 진출은 투자유치 과정에서 kill되었음. VC는 BPO를 일본진출보다 높게 여기는 것",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Dec 26th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "내년 점프 스쿼드의 역할 및 목적에 대한 싱크",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Nov 28th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n미팅들 R&R\n\n디자인 리뷰 \n스프린트 사전 플래닝\n스프린트 플래닝\n스프린트 회고",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "QA 가능한 시점에, 스쿼드에서 자체적으로 리뷰하는 시간 잡기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "아침에 해주셨던 것 처럼 KR 달성 현황 공유해주시는거 좋았습니다 OKR 체크인 아젠다 의견 ->\n- 우리는 어떤 KR을 달성하기 위해 어떤 일을 했나요?\n- 우리는 KR 더 잘 달성하기 위해 어떤 일을 해야할까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Nov 15th, 2024 (Fri)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "미팅들 R&R\n\n디자인 리뷰 \n스프린트 사전 플래닝\n스프린트 플래닝\n스프린트 회고",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Nov 1st, 2024 (Fri)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "스프린트 진행에 대한 피드백, 의견",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "플래닝 끝나고 실제로 트래킹하기 쉬운 형태로 티켓을 깎아보는 것 어떨까",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "스프린트 시작 전 필요한 미팅들 정리해보기",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "이전에 구두로 논의한 것 👇\n\n스프린트 플래닝\n- 정책/시안 미팅 (스쿼드) => 이해와 피드백\n- 스프린트 플래닝 전 사전 미팅 (그렉,썸머,한) => 플래닝 준비\n- 스토리 검토 & 깎기 (스쿼드) => 포커 준비\n- 스프린트 플래닝 (스쿼드) => 합의된 것들에 대한 포커 & 확정\n    - 전반적인 공유 / 최종 점검 [PO]\n    - 포커 [SM]\n        - 담당자/작업자\n        - 전반적 구현 설계 & 서브테스크 정의\n결국 중요한 것은 플래닝 전에 불확실성을 밝혀냈는가",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "새로운 스쿼드 구성원들 조합은 어떻게 보시는지?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "FE-BE 진도 차이",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "지금은 실제로 문제가 되지는 않음",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 24th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 17th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 10th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 3rd, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Sep 26th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\ndelivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Sep 19th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "delivery <-> discovery 연계 아이디어",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Sep 12th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n첫 배포 고생하셨습니다!\n회고 및 포스트모템을 진행하겠지만, 먼저 나누어 보고 싶은 얘기를 다뤄보면 좋겠어요.\n\n간단하게 Stop, Start, Continue를 해볼까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "스프린트 플래닝 전에 페이저 리뷰\n배포 단계화\n정답 데이터 만들어놓고, 정답이 산출되는지 확인",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Sep 5th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n개편 후 확대된 스쿼드에 대한 기대, 우려",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n현재 출시한 제품과 스쿼드에 대한 외부 인식 (인정, 우려 등)",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n실제로 조건부 배포를 했는데, 실제 고객이 본격적으로 사용하게 될 때의 우려가 있나요",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "첫 배포 고생하셨습니다!\n회고 및 포스트모템을 진행하겠지만, 먼저 나누어 보고 싶은 얘기를 다뤄보면 좋겠어요.\n\n간단하게 Stop, Start, Continue를 해볼까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "스프린트 플래닝 전에 페이저 리뷰\n배포 단계화\n정답 데이터 만들어놓고, 정답이 산출되는지 확인",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 29th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "개편 후 확대된 스쿼드에 대한 기대, 우려",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "현재 출시한 제품과 스쿼드에 대한 외부 인식 (인정, 우려 등)",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "실제로 조건부 배포를 했는데, 실제 고객이 본격적으로 사용하게 될 때의 우려가 있나요",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 22nd, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n여러모로 스프린트/스크럼 운영 효율이 높아진 것 같은데요, 아직 부족하다고 느끼는 부분 및 만족하는 부분은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n변경된 스프린트 운영에 대한 피드백",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n다음 스프린트 (QA 스프린트) 플래닝은 어떻게 하는게 좋을지?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "Previous meeting\n고객에게 배포 시점은 어떻게 할지? 역량 이후?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "이번 QA후!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "Previous meeting\n조직 개편에 대한 생각 또는 개편 확정에 대한 한의 생각과 고민이 궁금합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "긍정적!\n뺏기는 것에 대한 걱정을 했었는데\n9월 말 라봉 합류 할 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 0,
+        "text": "Previous meeting\n한이 느끼는 워크로드 및 속도",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 1,
+        "text": "- 적당한 것 같다\n- 지금 배포하면 \"분석 2개 + 결과 요약\"만 전달되는데 이것으로 충분할까?\n10월 즈음의 모습 : \"다중선택 + 다듬기 + 주관식\" \n\"주관식\" -> 전달가치가 크다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 0,
+        "text": "Previous meeting\n스마로서 부족하다고 느끼는 점은 무엇?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 1,
+        "text": "엔지니어들이 지금 해야하는 것을 파악하고, 해당 업무를 하게 만드는 것\n- 회고때 속도, 몰입, 소통을 중점적으로 얘기나눠 보는 것이 필요\n- 개인적인 신뢰",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 0,
+        "text": "Previous meeting\n어떨 때 개인적인 신뢰가 생기는지?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 1,
+        "text": "나와 같은 열정을 보일 때\n생각이 매치될 때\n의견이 동의되지 않았을 때 나를 잘 설득시킬 때\n리미와는 \"생각 매치\"가 잘 되지 않는 것이 가장 시급한 이슈로 판단됨\n팀 빌딩 활동을 만들어보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 15th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n여러모로 스프린트/스크럼 운영 효율이 높아진 것 같은데요, 아직 부족하다고 느끼는 부분 및 만족하는 부분은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n변경된 스프린트 운영에 대한 피드백",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n다음 스프린트 (QA 스프린트) 플래닝은 어떻게 하는게 좋을지?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "Previous meeting\n고객에게 배포 시점은 어떻게 할지? 역량 이후?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "이번 QA후!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "Previous meeting\n조직 개편에 대한 생각 또는 개편 확정에 대한 한의 생각과 고민이 궁금합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "긍정적!\n뺏기는 것에 대한 걱정을 했었는데\n9월 말 라봉 합류 할 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 0,
+        "text": "Previous meeting\n한이 느끼는 워크로드 및 속도",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 1,
+        "text": "- 적당한 것 같다\n- 지금 배포하면 \"분석 2개 + 결과 요약\"만 전달되는데 이것으로 충분할까?\n10월 즈음의 모습 : \"다중선택 + 다듬기 + 주관식\" \n\"주관식\" -> 전달가치가 크다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 0,
+        "text": "Previous meeting\n스마로서 부족하다고 느끼는 점은 무엇?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 1,
+        "text": "엔지니어들이 지금 해야하는 것을 파악하고, 해당 업무를 하게 만드는 것\n- 회고때 속도, 몰입, 소통을 중점적으로 얘기나눠 보는 것이 필요\n- 개인적인 신뢰",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 0,
+        "text": "Previous meeting\n어떨 때 개인적인 신뢰가 생기는지?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 1,
+        "text": "나와 같은 열정을 보일 때\n생각이 매치될 때\n의견이 동의되지 않았을 때 나를 잘 설득시킬 때\n리미와는 \"생각 매치\"가 잘 되지 않는 것이 가장 시급한 이슈로 판단됨\n팀 빌딩 활동을 만들어보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 8th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n여러모로 스프린트/스크럼 운영 효율이 높아진 것 같은데요, 아직 부족하다고 느끼는 부분 및 만족하는 부분은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "현재 문제라고 느껴지시는 부분이 있나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "프로그레스가 스토리 포인트로 잘 보이면 좋겠다. 지금은 한이 휴가가버리면 프로그레스가 잘 보이지 않는다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "변경된 스프린트 운영에 대한 피드백",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "다음 스프린트 (QA 스프린트) 플래닝은 어떻게 하는게 좋을지?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "고객에게 배포 시점은 어떻게 할지? 역량 이후?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "이번 QA후!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 0,
+        "text": "조직 개편에 대한 생각 또는 개편 확정에 대한 한의 생각과 고민이 궁금합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 1,
+        "text": "긍정적!\n뺏기는 것에 대한 걱정을 했었는데\n9월 말 라봉 합류 할 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 0,
+        "text": "한이 느끼는 워크로드 및 속도",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 1,
+        "text": "- 적당한 것 같다\n- 지금 배포하면 \"분석 2개 + 결과 요약\"만 전달되는데 이것으로 충분할까?\n10월 즈음의 모습 : \"다중선택 + 다듬기 + 주관식\" \n\"주관식\" -> 전달가치가 크다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 0,
+        "text": "스마로서 부족하다고 느끼는 점은 무엇?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 1,
+        "text": "엔지니어들이 지금 해야하는 것을 파악하고, 해당 업무를 하게 만드는 것\n- 회고때 속도, 몰입, 소통을 중점적으로 얘기나눠 보는 것이 필요\n- 개인적인 신뢰",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 8,
+        "child_index": 0,
+        "text": "어떨 때 개인적인 신뢰가 생기는지?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 8,
+        "child_index": 1,
+        "text": "나와 같은 열정을 보일 때\n생각이 매치될 때\n의견이 동의되지 않았을 때 나를 잘 설득시킬 때\n리미와는 \"생각 매치\"가 잘 되지 않는 것이 가장 시급한 이슈로 판단됨\n팀 빌딩 활동을 만들어보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 1st, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "여러모로 스프린트/스크럼 운영 효율이 높아진 것 같은데요, 아직 부족하다고 느끼는 부분 및 만족하는 부분은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 25th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n스크럼 마스터 역할 수행에 대한 감상이 궁금합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "어렵다\n- 내가 지금 무엇을 해야하는지, 명시되어 있지 않아서 잘하고 있는지 못하고 있는지 모르겠다\n잘 진행 되는지 파악하고 아니라면 잘 진행 되도록 만드는 것",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n스크럼 마스터로서 우리 TF가 업무를 수행하는 방식 중 개선되어야 한다고 생각하는 것은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "1. 프로젝트 전체에서 우리의 진척은 어떠한지 알기 힘든 상태\n2. 스프린트 전체에서 우리의 진척은 어떠한지 알기 힘든 상태\n- 1458, 1455 티켓의 경우 FE 작업은 당연하게 한 번에 진행해야하는 작업인데 티켓이 따로 쪼개져 있어서 문제 발생\n- 스프린트 시작시 각 엔지니어에게 서브태스크 입력을 요청했으나, 잘 되지 않았음\n- 스프린트 플래닝에서 서브 태스크를 같이 추기하면 좋을 것 같다\n타겟 스쿼드에서의 방식이 TF에서 작동하지 않는다\n- 기존 타겟스쿼드 작업 대비 복잡도가 높다\n- 티켓수도 적었다",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n로드맵에 대한 진행 사항은 어떤가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 19th, 2024 (Fri)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "스크럼 마스터 역할 수행에 대한 감상이 궁금합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "어렵다\n- 내가 지금 무엇을 해야하는지, 명시되어 있지 않아서 잘하고 있는지 못하고 있는지 모르겠다\n잘 진행 되는지 파악하고 아니라면 잘 진행 되도록 만드는 것",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "스크럼 마스터로서 우리 TF가 업무를 수행하는 방식 중 개선되어야 한다고 생각하는 것은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "1. 프로젝트 전체에서 우리의 진척은 어떠한지 알기 힘든 상태\n2. 스프린트 전체에서 우리의 진척은 어떠한지 알기 힘든 상태\n- 1458, 1455 티켓의 경우 FE 작업은 당연하게 한 번에 진행해야하는 작업인데 티켓이 따로 쪼개져 있어서 문제 발생\n- 스프린트 시작시 각 엔지니어에게 서브태스크 입력을 요청했으나, 잘 되지 않았음\n- 스프린트 플래닝에서 서브 태스크를 같이 추기하면 좋을 것 같다\n타겟 스쿼드에서의 방식이 TF에서 작동하지 않는다\n- 기존 타겟스쿼드 작업 대비 복잡도가 높다\n- 티켓수도 적었다",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "스크럼마스터에게 기대하는 점, 혹은 피드백이 있을까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "잘 진행 되는지 파악하고 아니라면 잘 진행 되도록 만드는 것",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "스프린트 운영 방식을 정의하고있어요. 스토리별로 일감이 순차적으로 처리되게 하여, 진척을 잘 파악할 수 있는 상태를 만드려고합니다\n(https://www.notion.so/lemonbase/0ca45eb02182423baeb7a070908e616e?v=d3f8b394d9404269838cc27fa222fa31&p=cea509f89e384e38b0d726d8c9fc7cf1&pm=c)",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "좀 더 으쌰으쌰, 빨리 개발을 진행하려고 하는 분위기를 만들어보고싶어요, 어떻게 하는게 좋을까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "#속도는 적절 한 것 같다\n- 더 몰입하고 서로 격려하는 분위기를 만들었으면 좋겠다\n- \"이거 성과내서 잘 했으면 좋겠다\"식의 으쌰으쌰/파이팅/경각심\n\n#대니와의 대화\n- 대니가 생각하기에는 열심히 해야 할 것 같다\n\n#눈에 보이는 작업물을 tf외의 사람들에게 공유하고 반응을 얻어낸다\n\n#서로의 성과에 대한 인정 -> 스크럼 회고와 동시에 무엇을 잘하고 못했는지를 중요시 하면서 얘기 -> 플래닝이나 회고 전에 스프린트 리포트하면서 서로를 인정하는 시간을 가져보자\n루이: jump에 대한 의욕보다는 모바일 및 팀의 업무보다는 개인의 업무를 중시하는 것 같다\n윗사람들의 인정을 유도해내자!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 0,
+        "text": "로드맵에 대한 진행 사항은 어떤가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 6,
+        "child_index": 0,
+        "text": "스크럼 마스터로서의 고충",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 1,
+        "text": "\"서브태스크 미리 넣자\"가 잘 되지 않았다\n계속 얘기하는 것이 피곤하고, 대처가 어려웠다\n규칙을 상호 정하고 지킬 수 있게 하자\n상호간에 합의했다고 생각했는데 동상이몽을 하고 있는 사례가 종종있다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 11th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n리미와 BE 경험 쌓기에 대해서 얘기를 나누셨나요?\n어떤 얘기를 나누셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "- 아직 못해봄",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n루이와 FE의 작업 내지는 분야별로 리딩하는 사람을 정하는 것에 대해서 얘기해보셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 둘다 같은 생각을 하고 있어서, 명시적으로 업무별로 리더를 정해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\nTF 점프 일하는 것에 대한 얘기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "화면 구현 및 시안이 나오다보니 불확실성은 낮아져서\n- 프런트엔드는 분석 설정 및 그래프 외에는 기존의 작업과 크게 다르지 않은 것 같다\n- 백엔드는 기존의 작업과 다른 점이 있는 것 같아서 불확실성이 높지 않을까?\n개선이 필요한 점)\n- 속도에 대한 불안감이 있다\n속도가 드러날 수 있는 것이 중요하겠다. 드러나지 않아서 불안감이 생기는 상황이고, 이는 리미 (스크럼 마스터)와 얘기를 나누어보아야 하겠다\n스크럼마스터 경험 해보고 싶다. 스크럼 마스터 번갈아가면서 해보는 것을 어떨까?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 5th, 2024 (Fri)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\nTF-jump의 일원으로서 임팩트를 내기 위해 필요한 것 (아직 충족되지 않은 것, 개선이 필요한것 등)은 무엇인가요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "빠른 진척을 위해 서로 쪼는 것. \n- 이거 먼저 해야하지 않을까요? \n- 지금 각 tf 구성원들이 어떤일을 하고, 그 일이 지금 하는 일인지 맞을까 체크 등",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n능동적인 소통을 원하셨는데, 개선되었다고 느끼시나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "리미와 BE 경험 쌓기에 대해서 얘기를 나누셨나요?\n어떤 얘기를 나누셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "- 아직 못해봄",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "루이와 FE의 작업 내지는 분야별로 리딩하는 사람을 정하는 것에 대해서 얘기해보셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "- 둘다 같은 생각을 하고 있어서, 명시적으로 업무별로 리더를 정해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "TF 점프 일하는 것에 대한 얘기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "화면 구현 및 시안이 나오다보니 불확실성은 낮아져서\n- 프런트엔드는 분석 설정 및 그래프 외에는 기존의 작업과 크게 다르지 않은 것 같다\n- 백엔드는 기존의 작업과 다른 점이 있는 것 같아서 불확실성이 높지 않을까?\n개선이 필요한 점)\n- 속도에 대한 불안감이 있다\n속도가 드러날 수 있는 것이 중요하겠다. 드러나지 않아서 불안감이 생기는 상황이고, 이는 리미 (스크럼 마스터)와 얘기를 나누어보아야 하겠다\n스크럼마스터 경험 해보고 싶다. 스크럼 마스터 번갈아가면서 해보는 것을 어떨까?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 4th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n리미와 BE 경험 쌓기에 대해서 얘기를 나누셨나요?\n어떤 얘기를 나누셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "- 아직 못해봄",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n루이와 FE의 작업 내지는 분야별로 리딩하는 사람을 정하는 것에 대해서 얘기해보셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 둘다 같은 생각을 하고 있어서, 명시적으로 업무별로 리더를 정해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\nTF 점프 일하는 것에 대한 얘기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "화면 구현 및 시안이 나오다보니 불확실성은 낮아져서\n- 프런트엔드는 분석 설정 및 그래프 외에는 기존의 작업과 크게 다르지 않은 것 같다\n- 백엔드는 기존의 작업과 다른 점이 있는 것 같아서 불확실성이 높지 않을까?\n개선이 필요한 점)\n- 속도에 대한 불안감이 있다\n속도가 드러날 수 있는 것이 중요하겠다. 드러나지 않아서 불안감이 생기는 상황이고, 이는 리미 (스크럼 마스터)와 얘기를 나누어보아야 하겠다\n스크럼마스터 경험 해보고 싶다. 스크럼 마스터 번갈아가면서 해보는 것을 어떨까?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 27th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n리미와 BE 경험 쌓기에 대해서 얘기를 나누셨나요?\n어떤 얘기를 나누셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "- 아직 못해봄",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n루이와 FE의 작업 내지는 분야별로 리딩하는 사람을 정하는 것에 대해서 얘기해보셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 둘다 같은 생각을 하고 있어서, 명시적으로 업무별로 리더를 정해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\nTF 점프 일하는 것에 대한 얘기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "화면 구현 및 시안이 나오다보니 불확실성은 낮아져서\n- 프런트엔드는 분석 설정 및 그래프 외에는 기존의 작업과 크게 다르지 않은 것 같다\n- 백엔드는 기존의 작업과 다른 점이 있는 것 같아서 불확실성이 높지 않을까?\n개선이 필요한 점)\n- 속도에 대한 불안감이 있다\n속도가 드러날 수 있는 것이 중요하겠다. 드러나지 않아서 불안감이 생기는 상황이고, 이는 리미 (스크럼 마스터)와 얘기를 나누어보아야 하겠다\n스크럼마스터 경험 해보고 싶다. 스크럼 마스터 번갈아가면서 해보는 것을 어떨까?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 26th, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "TF-jump의 일원으로서 임팩트를 내기 위해 필요한 것 (아직 충족되지 않은 것, 개선이 필요한것 등)은 무엇인가요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "빠른 진척을 위해 서로 쪼는 것. \n- 이거 먼저 해야하지 않을까요? \n- 지금 각 tf 구성원들이 어떤일을 하고, 그 일이 지금 하는 일인지 맞을까 체크 등",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "능동적인 소통을 원하셨는데, 개선되었다고 느끼시나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 20th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n리미와 BE 경험 쌓기에 대해서 얘기를 나누셨나요?\n어떤 얘기를 나누셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "- 아직 못해봄",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n루이와 FE의 작업 내지는 분야별로 리딩하는 사람을 정하는 것에 대해서 얘기해보셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 둘다 같은 생각을 하고 있어서, 명시적으로 업무별로 리더를 정해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\nTF 점프 일하는 것에 대한 얘기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "화면 구현 및 시안이 나오다보니 불확실성은 낮아져서\n- 프런트엔드는 분석 설정 및 그래프 외에는 기존의 작업과 크게 다르지 않은 것 같다\n- 백엔드는 기존의 작업과 다른 점이 있는 것 같아서 불확실성이 높지 않을까?\n개선이 필요한 점)\n- 속도에 대한 불안감이 있다\n속도가 드러날 수 있는 것이 중요하겠다. 드러나지 않아서 불안감이 생기는 상황이고, 이는 리미 (스크럼 마스터)와 얘기를 나누어보아야 하겠다\n스크럼마스터 경험 해보고 싶다. 스크럼 마스터 번갈아가면서 해보는 것을 어떨까?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 13th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n리미와 BE 경험 쌓기에 대해서 얘기를 나누셨나요?\n어떤 얘기를 나누셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "- 아직 못해봄",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n루이와 FE의 작업 내지는 분야별로 리딩하는 사람을 정하는 것에 대해서 얘기해보셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 둘다 같은 생각을 하고 있어서, 명시적으로 업무별로 리더를 정해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\nTF 점프 일하는 것에 대한 얘기",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "화면 구현 및 시안이 나오다보니 불확실성은 낮아져서\n- 프런트엔드는 분석 설정 및 그래프 외에는 기존의 작업과 크게 다르지 않은 것 같다\n- 백엔드는 기존의 작업과 다른 점이 있는 것 같아서 불확실성이 높지 않을까?\n개선이 필요한 점)\n- 속도에 대한 불안감이 있다\n속도가 드러날 수 있는 것이 중요하겠다. 드러나지 않아서 불안감이 생기는 상황이고, 이는 리미 (스크럼 마스터)와 얘기를 나누어보아야 하겠다\n스크럼마스터 경험 해보고 싶다. 스크럼 마스터 번갈아가면서 해보는 것을 어떨까?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 7th, 2024 (Fri)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "tf가 커리어에 어떤 도움이 되었으면 하나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "지향하는 커리어는 문제해결자 (full stack, CTO처럼 혼자서 문제에 대한 실질적인 해결책을 제시 할 수 있는 사람)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "tf를 통해서 성장하고 싶은 역량 또는 스킬은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "데이터 시각화 구현",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "tf를 통해서 달성하고 싶은 것은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "1. 사업적 성과\n2. 제품 전반에서의 인사이트 제공을 위한 좋은 선행 사례\n현 매출의 20% 증가. (Greg: MRR 2억 도전해보자)",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "예상되는 blocker는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "배포의 속도\n설정한 정책과 구현된 결과가 다른 경우가 종종 존재",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "일하는 환경에서의 발작버튼은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "의견 충돌이 감정적으로 변하는 경우\n유저에게 버그로 느껴지는 UX",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 5,
+        "child_index": 0,
+        "text": "프로젝트 진행 중 의사결정 과정은 어떻게 이루어지기를 원하나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 6,
+        "child_index": 0,
+        "text": "Greg의 피드백은 다이렉트한 편이라고 생각하시나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      },
+      {
+        "block_index": 6,
+        "child_index": 1,
+        "text": "Han은 싫은 소리를 잘 못하는 스타일\n뭔가 말하고 싶은 것이 있는 것 같은데, 얘기를 해주면 좋겠다와 같은 피드백을 받았을 때 그나마 부담감이 완화되었다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 0,
+        "text": "미리 세운 계획을 철저히 따르는 편인가요, 아니면 상황에 따라 유연하게 대처하는 편인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/8WMHev6GToNmHF0yFIJi"
+      }
+    ]
+  }
+]

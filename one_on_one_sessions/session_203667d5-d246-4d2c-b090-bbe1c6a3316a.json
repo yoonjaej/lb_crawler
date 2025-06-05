@@ -1,0 +1,623 @@
+[
+  {
+    "meeting_date": "Apr 30th (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n최근 공유된 MVC에 대한 Dio의 생각?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "비전은 이전보다 명확해졌지만 크게 와닿지는 않습니다\n핵심가치도 개선안도 이전과 큰 차이가 없다 생각합니다\n비전이 와닿지 않는 이유 \n-> 영위하는 페르소나가 너무 많다 (사실상 전부다 잘 하자)\n모든 페르소나를 공통적으로 관통하는 요소가 없어서 결국 전부 다 잘 하자 같다\n\n핵심가치\n- 기존 대비 평가를 구체화 또는 평가를 위한 핵심가치 변경처럼 느껴진다\n\n매일매일 일하는 순간에 떠오를까?\n- 딱히...",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n리뷰 결과 조망에 대한 의견 확인.\n\n유연한 구조를 만들기 위해서 어떤 기반이 필요 할지?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "가장 끝그림이 어떤 내용일지 예상이 안되어 어떤 구조가 필요할지 예상되지 않습니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n1:1이 공식적으로 점프가 다루는 일감이 되었습니다.\n고객의 주된 니즈는 1:1 현황 파악입니다. \n\n1차 리더와 구성원 간의 1:1만 발라보기, 일전에 말씀드린 허수를 제외하고 살펴보기 등이 필요한데, 이런 기능을 구현하기 위해 새로운 테이블 구조를 짜는 것이 필요할까요? (API정도만  새로 만들면 될까? 테이블이 필요할까?)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "조회 시 허수 제외를 얼마나 빨리 할거냐에 따라 구조 변경이 필요할 듯합니다\n허수 판별 기준이 얼마나 복잡하냐에 따라 작업 난이도, 범위도 다를듯하며\n간단한 방법(아젠다 변경 여부, 메모 등록 여부)으로 한다면 API 변경정도를 예상합니다\nBE는 1명이면 될 것 같음. \n다음번에 AI 작업할때 병행하면 되겠다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "https://www.notion.so/lemonbase/Dio-1d4e2421b7c081969a4cdc3aaef011cf?pvs=4",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Apr 2nd (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "최근 공유된 MVC에 대한 Dio의 생각?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "비전은 이전보다 명확해졌지만 크게 와닿지는 않습니다\n핵심가치도 개선안도 이전과 큰 차이가 없다 생각합니다\n비전이 와닿지 않는 이유 \n-> 영위하는 페르소나가 너무 많다 (사실상 전부다 잘 하자)\n모든 페르소나를 공통적으로 관통하는 요소가 없어서 결국 전부 다 잘 하자 같다\n\n핵심가치\n- 기존 대비 평가를 구체화 또는 평가를 위한 핵심가치 변경처럼 느껴진다\n\n매일매일 일하는 순간에 떠오를까?\n- 딱히...",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "리뷰 결과 조망에 대한 의견 확인.\n\n유연한 구조를 만들기 위해서 어떤 기반이 필요 할지?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "가장 끝그림이 어떤 내용일지 예상이 안되어 어떤 구조가 필요할지 예상되지 않습니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "1:1이 공식적으로 점프가 다루는 일감이 되었습니다.\n고객의 주된 니즈는 1:1 현황 파악입니다. \n\n1차 리더와 구성원 간의 1:1만 발라보기, 일전에 말씀드린 허수를 제외하고 살펴보기 등이 필요한데, 이런 기능을 구현하기 위해 새로운 테이블 구조를 짜는 것이 필요할까요? (API정도만  새로 만들면 될까? 테이블이 필요할까?)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "조회 시 허수 제외를 얼마나 빨리 할거냐에 따라 구조 변경이 필요할 듯합니다\n허수 판별 기준이 얼마나 복잡하냐에 따라 작업 난이도, 범위도 다를듯하며\n간단한 방법(아젠다 변경 여부, 메모 등록 여부)으로 한다면 API 변경정도를 예상합니다\nBE는 1명이면 될 것 같음. \n다음번에 AI 작업할때 병행하면 되겠다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Mar 19th (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "현재 회사 상황 공유",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "투자는 거의 완료 단계 -> 정말 특별한 일이 발생하지 않는 이상, 투자는 마무리 될 것\n2026년에는 Series B를 노릴 것, Series B의 요건은 BEP (연 매출 50억)\nBEP를 위해서는 1) 매출을 증가하는 것, 2) 비용을 줄이는 것\n1) 매출을 증가하기 위해서는, 새로운 유형의 고객 니즈를 소화 할 수 있어야 함. (고객의 모수를 늘려야 함)\n-> 정량평가, 업적기반 평가, 평가 사후 조망\n\n2) 비용을 줄이기 위해서는, 인력 감축 진행 중\n-> 능동적인 인력 감축은 아니고, 버스팩터가 다소 높았던 직무/역할에 대한 수동적인 감축 (나가는 것을 굳이 잡지는 않는다)\n3) 채용은 현재 프리징 상태이고, 몇몇 충원이 불가피한 역할 제외하고는 추가로 없을 것",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "몰입 측면에서 우려사항",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Feb 5th (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "창조하고 혁신하는 과정에서 위험을 감수하는 도전정신과, 실행을 통해 개선하는 행동력 그리고 무엇이든 할 수 있다는 Can-Do Spirit은 그 무엇보다 중요하다고 생각합니다. 디오는 3가지 요소를 모두 갖추셨다고 생각하고, 그 무엇도 디오의 이런 면모를 바꾸지 않았으면 좋겠습니다. 이 관점에서는 디오가 변하시지 않았으면 좋겠습니다. \n\n혹 이에 대한 고민이 있으시거나, 기존에 받으셨던 피드백과 상충되는 부분이 있다면 같이 얘기를 나눠보고 싶습니다. \n\n때로는 빠른 시도가 비효율을 발생시키고 효과적이지 못할 수도 있겠지만, 없던 것을 창조하고 혁신에 도전하는 스타트업에서는 디오의 존재는 빛과 같다고 생각합니다.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "말과 태도가 전부다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jan 22nd (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "\b리뷰 잘 작성하고 계신가요? ㅎㅎ",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "셀프 리뷰는 거의 다 썼음\n직속 리더에게 하고픈 말이 고민\n동료리뷰는 리미 한 명이라서 문제 없음",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "신나게 답답 및 개선이 되었으면 좋겠는 부분을 얘기해볼까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "우리야 제품을 만드니까 사용은 한다, 셀프 리뷰는 개인의 성장을 위한 측면에서 좋은 것 같다.\n\n동료 리뷰는 쓰는 과정에서 고통, 알맹이 없는 내용도 있는 것 같다\n실질적인 효용이 있는가라는 의문이 있다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "정적리포트 프로젝트에 대해서",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "처음해보니까 재밌는 것 같고, 새로운 도전/시도라서 좋은 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Dec 11th, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "디오가 저에게 부탁하고 싶은 것이 있다면 무엇일까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "PO의 책무 중 일부를 위임하면 좋겠다\n- 정책 답변을 디오가 가져가도 좋겠다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "최근 신경/고민하시는 것은?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 루이 퇴사\n- 일본 진출",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "그렉 고민? 관심사?",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Nov 27th, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "디오의 남은 휴가 갯수는?\n연말 및 휴가 운영 계획은?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "최근 얘기를 나눠보고 싶은 것이 있으신지?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "시각화 엑스트라 마일로 한 단계 업그레이드 시켜주신 것 감사합니다.\n변경이 필요하다는 것을 알면서도 기존에 만들어두었던 것이 있기에 선뜻 바꾸자고 하지 못했던 것 같아요.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Nov 13th, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "최근 이런저런 일들이 많이 발생하는데, 이것들에 대한 Dio의 생각을 들어보지 못한 것 같아요! \n1) 데니스 퇴사\n2) 최근 클로이 쓰레드 및 f/u 임시 오렌지 미팅\n에 대한 디오의 날것의 의견이 궁금해요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "클로이 의견에 동의. 매출이 1순위라고 생각.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 31st, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "최근 디오가 스쿼드내에서 리더십을 발휘하는 멋진 모습을 쉽게 접할 수 있어요!!! \n혹시, 관련해서 디오의 생각변화가 있었던 것일까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "디오가 리더십을 발휘해주시면 좋을 것 같다!\n각자 나름의 불만과 고민이 있는 것 같아서, 의도적으로 하시는 것도 있음",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "분석 관련 poc를 위한 안내 메일 보내어 의견 받아보는 흐름을 구성해보려 한다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 16th, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n디오의 최근 워크로드는 어느정도인가요? 서베이에서 말씀주셨지만, 조금 더 자세히 이해하고 싶어요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "이번 스프린트 기준 적당했다고 생각합니다\n100이 최대치일때 90 정도였던거 같습니다~\n정책 등에 대한 논의가 적어서, 순수 작업만 할 수 있었던 것 같고, 그 덕에 적절했다고 느끼는 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n일전에 구두로 말씀드린 것처럼, 다음 Delivery시에는 리미가 별도로 AI 활용에 집중하시게 되고, 제품 개발 쪽으로는 Dio가 전담하시게 될 것 같아요. \n관련하여 기대되는 점, 우려되는 점은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "아직까지 예상되는 문제점은 없는것 같습니다~~",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n디오의 근무 스케쥴?은 어떻게 되나요? 주말 및 야간에 종종 일하시는 것 같아서 질문드려봅니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "오전 9:30 ~ 오후 7:00 퇴근 + 퇴근 이후 조금 보는 경우\n주말/휴일에 1~2시간씩",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "Previous meeting\nDio가 지향하는 커리어 목표는 무엇인가요? (3~5년 내)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "문제를 어떻게든 해결 할 수 있으면 좋겠다\n레몬베이스에 있는 동안, 내가 불편, 고객이 불편, 돈이 되는 것에 최대한 기여를 해보자\n디오가 혼자서 해결하는 것은 혼자서 하면 된다.\n혼자 처리 할 수 있는 일이 아닌 경우, 사람들을 움직이기 위해서 어려움은 조금 존재.\n- 예를 들어, 조직 관리 쪽\n아이디어들을 스쿼드 업무로 가져와서 처리 해보자\nBE는 4-5년째\n기존에는, 클라이언트 엔지니어, 데이터 엔지니어도 경험했다\nFE도 가끔씩 했었다\n레몬베이스 화면을 고치고 싶은 욕구가 생길 때, FE 공부를 하기도 함.\n한 <-> 디오 (BE <-> FE)로 업무 해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "최근 강/약점, 자기객관화 로직 개선에 능동적으로 꼼꼼하게 챙겨주셔서 감사합니다!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 0,
+        "text": "조직 개편에 대한 디오의 감상/소감이 궁금합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 5,
+        "child_index": 1,
+        "text": "tf-jump 구성원도 그대로, 하던 일도 바뀌지 않기도하고, Chun왜 나머지 새로운 스쿼드 분들과는 일을 해봤던 사이라서 크게 색다르지 않음\n커진 규모에 따른 복잡도\n스쿼드 BE 개발 철학을 잡는 것에 대한 디오의 생각\n점프 스쿼드 BE 리드의 역할을 부탁드립니다!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 0,
+        "text": "요즘 Dio의 관심사는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 6,
+        "child_index": 1,
+        "text": "https://app.codecrafters.io/catalog\n다른 언어 공부, 건강\n요즘 그렉 관심사도 궁금합니다~\n새로운 시도가 많이 줄어든것 같아 스쿼드 내에서 아이디어를 활발히 공유할수 있으면 좋겠다\ngreg: 회사의 발전, 매출 증가가 관심사, 하루에 8시간 그 이상 회사에 투자하고 있음",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 7,
+        "child_index": 0,
+        "text": "Dio의 고민거리 3개를 굳이 꼽자면?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 7,
+        "child_index": 1,
+        "text": "저도 greg의 고민 3개 궁금합니다~\ndio: 연차와 능력치가 비례하는 사람인지 가끔 고민하고 있는 중\ngreg: 마찬가지, 데이터 영역은 LLM등 엄청 많은 변화가 빠르게 있어서 큰 고민이 있었으나 내가 할수있는 영역과 아닌 영역을 구분하니 마음이 조금 편해졌다\n개발한지 8년정도 되었는데, 8년차의 값어치를 하고 있는가? (연협 11월)\n디오가 생각하는 디오의 강점\n- 실행력\n리미 걱정",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 15th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n디오의 최근 워크로드는 어느정도인가요? 서베이에서 말씀주셨지만, 조금 더 자세히 이해하고 싶어요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "이번 스프린트 기준 적당했다고 생각합니다\n100이 최대치일때 90 정도였던거 같습니다~\n정책 등에 대한 논의가 적어서, 순수 작업만 할 수 있었던 것 같고, 그 덕에 적절했다고 느끼는 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n일전에 구두로 말씀드린 것처럼, 다음 Delivery시에는 리미가 별도로 AI 활용에 집중하시게 되고, 제품 개발 쪽으로는 Dio가 전담하시게 될 것 같아요. \n관련하여 기대되는 점, 우려되는 점은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "아직까지 예상되는 문제점은 없는것 같습니다~~",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n디오의 근무 스케쥴?은 어떻게 되나요? 주말 및 야간에 종종 일하시는 것 같아서 질문드려봅니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "오전 9:30 ~ 오후 7:00 퇴근 + 퇴근 이후 조금 보는 경우\n주말/휴일에 1~2시간씩",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "Previous meeting\nDio가 지향하는 커리어 목표는 무엇인가요? (3~5년 내)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "문제를 어떻게든 해결 할 수 있으면 좋겠다\n레몬베이스에 있는 동안, 내가 불편, 고객이 불편, 돈이 되는 것에 최대한 기여를 해보자\n디오가 혼자서 해결하는 것은 혼자서 하면 된다.\n혼자 처리 할 수 있는 일이 아닌 경우, 사람들을 움직이기 위해서 어려움은 조금 존재.\n- 예를 들어, 조직 관리 쪽\n아이디어들을 스쿼드 업무로 가져와서 처리 해보자\nBE는 4-5년째\n기존에는, 클라이언트 엔지니어, 데이터 엔지니어도 경험했다\nFE도 가끔씩 했었다\n레몬베이스 화면을 고치고 싶은 욕구가 생길 때, FE 공부를 하기도 함.\n한 <-> 디오 (BE <-> FE)로 업무 해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "Previous meeting\n우려/개선이 필요한 점",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "진짜 사람들이 많이써서, 성능/인프라 이슈가 발생하는 것 (코드 리팩토링이 필요 할 수도 있겠다)\n모니터링/로깅 고민 필요\n분석 결과 통계 분석에 대한 검증",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Sep 17th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n디오의 최근 워크로드는 어느정도인가요? 서베이에서 말씀주셨지만, 조금 더 자세히 이해하고 싶어요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "이번 스프린트 기준 적당했다고 생각합니다\n100이 최대치일때 90 정도였던거 같습니다~\n정책 등에 대한 논의가 적어서, 순수 작업만 할 수 있었던 것 같고, 그 덕에 적절했다고 느끼는 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Previous meeting\n일전에 구두로 말씀드린 것처럼, 다음 Delivery시에는 리미가 별도로 AI 활용에 집중하시게 되고, 제품 개발 쪽으로는 Dio가 전담하시게 될 것 같아요. \n관련하여 기대되는 점, 우려되는 점은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "아직까지 예상되는 문제점은 없는것 같습니다~~",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Previous meeting\n디오의 근무 스케쥴?은 어떻게 되나요? 주말 및 야간에 종종 일하시는 것 같아서 질문드려봅니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "오전 9:30 ~ 오후 7:00 퇴근 + 퇴근 이후 조금 보는 경우\n주말/휴일에 1~2시간씩",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "Previous meeting\nDio가 지향하는 커리어 목표는 무엇인가요? (3~5년 내)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "문제를 어떻게든 해결 할 수 있으면 좋겠다\n레몬베이스에 있는 동안, 내가 불편, 고객이 불편, 돈이 되는 것에 최대한 기여를 해보자\n디오가 혼자서 해결하는 것은 혼자서 하면 된다.\n혼자 처리 할 수 있는 일이 아닌 경우, 사람들을 움직이기 위해서 어려움은 조금 존재.\n- 예를 들어, 조직 관리 쪽\n아이디어들을 스쿼드 업무로 가져와서 처리 해보자\nBE는 4-5년째\n기존에는, 클라이언트 엔지니어, 데이터 엔지니어도 경험했다\nFE도 가끔씩 했었다\n레몬베이스 화면을 고치고 싶은 욕구가 생길 때, FE 공부를 하기도 함.\n한 <-> 디오 (BE <-> FE)로 업무 해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "Previous meeting\n우려/개선이 필요한 점",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "진짜 사람들이 많이써서, 성능/인프라 이슈가 발생하는 것 (코드 리팩토링이 필요 할 수도 있겠다)\n모니터링/로깅 고민 필요\n분석 결과 통계 분석에 대한 검증",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 20th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "디오의 최근 워크로드는 어느정도인가요? 서베이에서 말씀주셨지만, 조금 더 자세히 이해하고 싶어요",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "이번 스프린트 기준 적당했다고 생각합니다\n100이 최대치일때 90 정도였던거 같습니다~\n정책 등에 대한 논의가 적어서, 순수 작업만 할 수 있었던 것 같고, 그 덕에 적절했다고 느끼는 것 같다",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "일전에 구두로 말씀드린 것처럼, 다음 Delivery시에는 리미가 별도로 AI 활용에 집중하시게 되고, 제품 개발 쪽으로는 Dio가 전담하시게 될 것 같아요. \n관련하여 기대되는 점, 우려되는 점은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "아직까지 예상되는 문제점은 없는것 같습니다~~",
+        "avatar_url": "https://cdn.filestackcontent.com/vVSIoXhZQqS7gsKiJ96l"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "디오의 근무 스케쥴?은 어떻게 되나요? 주말 및 야간에 종종 일하시는 것 같아서 질문드려봅니다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "오전 9:30 ~ 오후 7:00 퇴근 + 퇴근 이후 조금 보는 경우\n주말/휴일에 1~2시간씩",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "Dio가 지향하는 커리어 목표는 무엇인가요? (3~5년 내)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "문제를 어떻게든 해결 할 수 있으면 좋겠다\n레몬베이스에 있는 동안, 내가 불편, 고객이 불편, 돈이 되는 것에 최대한 기여를 해보자\n디오가 혼자서 해결하는 것은 혼자서 하면 된다.\n혼자 처리 할 수 있는 일이 아닌 경우, 사람들을 움직이기 위해서 어려움은 조금 존재.\n- 예를 들어, 조직 관리 쪽\n아이디어들을 스쿼드 업무로 가져와서 처리 해보자\nBE는 4-5년째\n기존에는, 클라이언트 엔지니어, 데이터 엔지니어도 경험했다\nFE도 가끔씩 했었다\n레몬베이스 화면을 고치고 싶은 욕구가 생길 때, FE 공부를 하기도 함.\n한 <-> 디오 (BE <-> FE)로 업무 해보자",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "우려/개선이 필요한 점",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "진짜 사람들이 많이써서, 성능/인프라 이슈가 발생하는 것 (코드 리팩토링이 필요 할 수도 있겠다)\n모니터링/로깅 고민 필요\n분석 결과 통계 분석에 대한 검증",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 23rd, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "본격적으로 개발에 착수한 1달 가량을 돌아보면서,\n1) 디오 개인적인 Stop, Start, Continue\n2) tf의 Stop, Start, Continue\n는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "tf 목표 달성에 우려점 및 예상 blocker는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 7th, 2024 (Fri)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "tf를 통해서 성장하고 싶은 역량 또는 스킬은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "주제가 흥미롭다. 분석을 위한 서비스/제품을 올리는 것이 특수한 경험이라고 생각\n매출로 이어지도록 잘 만들었으면 좋겠다\n분석 할 수 있는 서버를 만들어 보는 경험\n도전적인 목표",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "tf를 통해서 달성하고 싶은 것은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "tf가 커리어에 어떤 도움이 되었으면 하나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "예상되는 blocker는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "일하는 환경에서의 발작버튼은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 1,
+        "text": "느린 의사결정의 속도",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  }
+]

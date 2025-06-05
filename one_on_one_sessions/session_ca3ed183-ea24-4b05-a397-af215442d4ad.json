@@ -1,0 +1,409 @@
+[
+  {
+    "meeting_date": "Jun 11th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "제품 개발 관련 요즘 헤이의 우려포인트는? (로드맵 변경 및 이런저런 변화가 생기는 것 같아서 여쭤보는 두루뭉실한 질문임)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "리뷰에서 캘리브레이션 기능을 만들고 있는데요. \n4개월이라는 긴 호흡의 제품 개발 주기를 가진 점 (레몬베이스에서 그동안 해본 적 없는)\n신규 모객을 위한..  빅벳 기능이라는 부담감이 있는 기능이라는 점 (레퍼런스가 많이 없는) \n\n요거 어떻게 잘 만들까, 내가 어떻게 기여할 수 있을까가 고민입니다.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "점프 TF 응원합니닷.. ㅎㅎ 그렉이 요즘 가장 집중하는 업무는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "곧 입사 3년차가 되다보니 커리어를 한번 돌아보게 되네요. 그동안 무엇을 배웠고 앞으로 무엇을 더 시도하고 배워볼지..",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Apr 16th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\nHay가 겪는 리뷰/평가 어려움은 무엇인가요? (Hay가 리더로서 평가시)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "챕터 리드이다보니 어려운 점. \n팀원들과 직접적으로 협업하는 지점이 적기 때문에 평가할 때 자료가 부족하다는 생각이 들어요.\n주로 스쿼드에서 일하는데 어떻게 일하고 요구사항에 맞게 퍼포먼스를 냈는지 판단하기가 어려운 것.\n주기적으로 1:1하면서 상황을 파악하고는 있지만 디자이너에게서 듣는 이야기다보니 객관성이 있다고 생각하지는 않아요.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "지난 리드 모임에서 공유된 내용에 대한 헤이의 생각이 궁금해요!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "디자이너 역량에 대해 고민하다가 역량의 3요소 (knowlege, skill, attitude)에 대해 알게됐는데 흥미롭더라고요. 그 중에 attitude 관련해서 문제의식을 느끼고 더 알고 싶은데 제가 뭘 알고 싶은지조차를 잘 모르겠는.. 상태인거 같아요. 🤔",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "잡 크래프팅 개념 찾아보기",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Mar 19th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "Previous meeting\n앱큐즈 관련",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "프로덕트 공용계정 존재\n기존에는 디자인챕터 + 죠르디 + 알렉스가 사용해봄\nproduct group에 상황 공유하면 된다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "Hay가 겪는 리뷰/평가 어려움은 무엇인가요? (Hay가 리더로서 평가시)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "챕터 리드이다보니 어려운 점. \n팀원들과 직접적으로 협업하는 지점이 적기 때문에 평가할 때 자료가 부족하다는 생각이 들어요.\n주로 스쿼드에서 일하는데 어떻게 일하고 요구사항에 맞게 퍼포먼스를 냈는지 판단하기가 어려운 것.\n주기적으로 1:1하면서 상황을 파악하고는 있지만 디자이너에게서 듣는 이야기다보니 객관성이 있다고 생각하지는 않아요.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Hay는 몰입이 떨어졌을 때 어떻게 끌어올리나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "요즘은 위기를 기회로 라고... ㅎㅎ 회사의 위기 -> 내 삶의 위기를 상상하면서 정신을 다잡으려고 합니다",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Feb 20th, 2024 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "앱큐즈 관련",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "프로덕트 공용계정 존재\n기존에는 디자인챕터 + 죠르디 + 알렉스가 사용해봄\nproduct group에 상황 공유하면 된다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jan 31st, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "그렉~~ 안녕하세요 😄",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "요즘 어떤 업무에 집중하고 계세요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "디자인 챕터 리드로서의 고민은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "정든 리뷰스쿼드를 떠난 소감?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 31st, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "그렉 ~~ 😄 오랜만에 근황 톡 어떠신가요",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "그렉의 근황은? 요즘 리스펙트 업무 하시면서 어떤 생각들 하고계시나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "저의 근황 ~ 몸이 1개라서 아쉽다. ^^",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "PD 새로운 분이 채용되어서 입사 예정이에요. 그나마 다행이지요 ㅎㅎ 이제 PD가 5명입니다.\n그러나 아직 3분이 신규 입사자라 하반기 컴퍼니 KR 달성을 위한 디자이너 리소스 부족 현상은 한동안 계속 될 것 같아서 고민이 있어요. 고민한다고 뾰족한 수가 나오는 일은 아니지만;;\n예상했지만- 리뷰 스쿼드는 올해도 고객사 평가 지원으로 인해 분석 제품을 제대로 해보질 못했네요. 평가시즌 지나면 제대로 해볼 수 있을것 같아요.\nPO로 최근 입사한 한스 또는 알리나가 리뷰 분석, 리뷰 결과쪽 일을 담당해주시게 될거에요. 😄",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 8th, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "디자이너 챕터의 변화",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "제품 조직의 변화",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "에너지 레벨",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jul 11th, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "슬슬 리뷰 결과 분석 제품관련된 고민을 시작해야 할 것 같아요!\n1) 리뷰 스쿼드의 작업과 고민 현황을 파악하고 싶으면 어떤 것들을 주로 살펴보는 것이 좋을까요?\n2) 리뷰결과분석에 대한 헤이의 우려포인트는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Jun 13th, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "그렉 ~~ 잘 지내셨나요? 😄",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "그렉은 제품 2.0 기획과 디자인에 대한 발표를 듣고 어떤 생각이 드셨나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "이제야 드디어 시작하는구나 느낌\n기존의 4개 제품을 합친 것과 동일한 중요도라고 생각함, 근데 이렇게 중요한 것을 앞으로 들어올 크루들이 만든다는 것에 대한 의문점",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "오늘 일정이 조금 빡빡해서 30분 컷으로 1:1 알차게 진행해보면 좋겠어요!",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "May 16th, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "그렉~ 또 오랜만이죠? ㅎㅎㅎ",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "요즘 어떤 업무 하고계세요? 집중하거나 고민하고 있는 주제가 있는지 궁금합니다.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "그렉은 시간관리 어떻게 하고계세요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "제가 문제의식을 느끼는 점은\n1. 일과 개인 삶에 대한 비중이 틀려먹었다 (...) 운동, 스스로 돌아보기 같이 자신을 챙기는 시간을 갖고싶다. \n2. 일에서 스쿼드 일과 그 외의 업무에 비중이 틀려먹었다 ... 채용을 할 때는 거의 2:8의 비중까지 느꼈는데요. 이거는 정말 모르겠습니다. ㅠㅠ)\n이것을 8:2로 바꾸고 싶고 바꾸는게 저의 단기 목표입니다.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "오렌지 미팅에서 말씀주셨던, \"고객에게 가치가 전달되고 있는지 모르겠다\"라는 문제에 대한 논의",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "어떤 문제?\n예상 해결책?\n우리가 만드는 기능이 연결되었을 때 CPM이 달성된다고 생각\n- CPM이 아니라 기능/제품 별로 따로 놀고 있는 느낌",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Feb 21st, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "그렉 ~ ㅎㅎ 머쓱할 정도로 오랜만에 하는 1:1이네요.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "PD챕터에서 하고있던 활동들 (역량정의, 역량리뷰)",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "역량 정의 https://www.notion.so/lemonbase/PD-R-R-d93f7414edcf4f609a1dd7d126fc3491\n정량적으로 역량 리뷰 진행 https://teamlemonbase.slack.com/archives/C02DR3GFC8P/p1674539378120329\n어려웠던 점: 정의된 역량에 대한 유지보수+생각 맞추기, 리뷰 시 응답 척도에 대한 기준을 씽크 맞추기, 직무 레벨별로 역량 정의 세분화하기\n팀원들의 요구사항 더 깊이 공감해보기.\n왜 역량정의나 리뷰가 필요하다고 생각했을까? 우리 회사에서 평가 만족도가 낮은걸까? 나의 성과와 스쿼드의 성과가 연결이 안된다고 느끼나? 그동안의 경험과 생각들을 드러내보기\n역량을 정의해놓으니 이것을 기반으로 채용 기준을 잡을 수 있어서 좋았다. 우리 팀에 부족한 역량을 채워줄 수 있는 분인지 검증하는데에 도움이 됨.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Hay가 생각하는 리더의 역할과 책임은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "혼란을 겪고 있는 상황\n- 역량 정의 관련 챕터에서 필요하다는 구성원의 니즈가 있었음\n- 업무에 대한 리더십 (직무에 필요한 역량 향상을 위한)만을 생각했는데, 어느순간 사람에 대한 리더십도 요구 받고 있는 것 같다\n언제가 다음 회사로 떠나게 될 때 확실히 역량적으로 성장했다, 커리어 발전에 도움이 되었다 라고 느껴지면 좋겠어요. ㅎㅎ",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "디자인 챕터와 디자인팀? 챕터리드와 팀리드? Lead Work, Lead People 정리가 되야할 것.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      }
+    ]
+  },
+  {
+    "meeting_date": "May 12th, 2022 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "그렉~ 잘 지내셨나요 ㅎㅎㅎ",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "디자인 팀은 핫쟈와 구글 애널리틱스를 사용해서 데이터 수집을 하고있는데요. 유의미하게 잘 활용되고 있다는 느낌은 적네요.",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "디자인팀이 데이터 수집하고자 하는 목표는 무엇이었나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "그렉은 레몬베이스 팀이 Win by Data를 얼만큼 지키고 있다고 생각하세요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "현상을 나타내는 데이터와 원인을 나타내는 데이터는 다르다고 생각하는데요, 단순 현상을 나타내는 데이터만 활용되고 있다고 생각합니다. 1",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "그렉의 목표 중에서 '고객의 현황을 나타내는 지표를 정의, 설계, 수집한다 (product 지표)' 가 있는데요. 디자인팀이 도울 수 있는 부분이 있을까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 3,
+        "child_index": 1,
+        "text": "OKR이 새로 수립되면서 위 목표는 deprecate 되었는데요, 하지만 관련 활동에 대해서는 논의해보면 좋을 것 같아요. 다른 아젠다의 \"디자인 팀의 데이터 활용 목적\"에 대해서 얘기해보면 조금 더 얘기거리가 develop 될 것 같아요.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Mar 31st, 2022 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "안녕하세요. Hay 입니다 :)",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "요즘은 어떤 일을 하고 계세요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "레몬베이스에서 어떤 업무를 할 때 그렉과 협업하면 좋을까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/Xj0pHiV4RG2KFidOLqNQ"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "최근 프로덕트 메이커로서 가장 가려운 부분은 어떤 것인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "Hay의 올해 목표는 어떤 것인가요? (개인, LB크루로서)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  }
+]

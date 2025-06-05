@@ -1,0 +1,229 @@
+[
+  {
+    "meeting_date": "Jul 11th, 2024 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "jump TF에 대한 대니의 감상/피드백",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "[그렉에 대한 이야기]\n- 잘하고 있는 것 같다\n- 제품 메이킹에 대한 이해도가 있는 것 같다\n\"우리 지금 잘 가고 있는가? 지금 이대로 가면 성공 할 수 있는가?에 대한 인지를 할 수 없다\"에 대한 문제의식이 있다.\n- 타임라인, 로드맵이 있어야, 이를 판단 할 수 있을 것 같다\n- 이것을 해소하는 것이 필요하다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "저의 jump TF 잔류 여부 결정",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "- 이번 스프린트까지만 잔류\n- 분석을 위한 BE 사이드는 계속 챙길 것: 블랙박스가 되지 않도록 할 것. 테크스펙 + 최소한 Danny, Ryan이 파악하고 있는 상태 + BE 엔지니어들에게 설계에 대해 공유하도록 할 것.",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Feb 28th, 2024 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "MRR, ARR, 각 제품의 CES 지표들을 시각화하고 접근성을 높여 팀의 데이터 리터러시를 높이는 방안을 찾아보고 싶어요.\n문제 인식을 떠오르는대로 적어보면 이렇습니다.\n\n1) #alarm-daily-statistics에 나오는 eMRR, eARR 값들은 그래프로 표현되지 않기 때문에 직관적으로 우리 주요 지표가 어떤 상태에 놓여있는지를 파악하기 어려운 것 같고\n2) CES 지표는 Chloe가 MBR에서 짚어주지 않으면 각 스쿼드의 전유물에 가까운 것 같아요\n3) 크루들에 주요 지표들에 대해 충분히 노출되지 않아 각 지표에 오너십을 갖는 사람들이 적절한 프레셔를 받기 힘든 구조이고, 크루들이 지표 기반으로 사고하거나 지표 설정을 해야겠다는 생각을 하기 어려운 것 같고요.\n\n이에 대한 Greg의 생각을 들어보고 싶고, 위 문제들을 해결하기 위해 어떤 선택지들과 허들이 있는지를 밝혀보고 싶습니다.",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "[사용성 측면] 일단 전반적으로 데이터 접근성에 대한 한 차원 업그레이드가 필요합니다. \"쿼리를 날리는 것으로만 쉽게 정보를 얻을 수 있다면 크루들이 잘 쓸 것이다\"라는 전제하에 이런저런 작업들을 수행했었는데요, 결론적으로 쿼리를 써야하는 것 자체도 큰 허들로 보입니다. \n\n[인식의 부재] 무엇이든 잘 갖춰져 있으면 분명 활성화에 도움이 될 것이라고 생각해요. 다만, 지표 기반으로 사고하거나, 지표 설정해야하겠다는 생각이 환경이 가춰져있는지 여부에 따라 발현 여부가 나뉘는 것은 아니라고 생각해요.\n\n사용성 개선은 필요하고, 이 것은 데이터팀의 미션 중 하나라고 생각합니다. 지난 상반기에 관련된 작업을 진행하다가, 하반기에 리스펙트라는 큰 웨이브에 모든 것이 휩쓸렸고, 이번 반기에 새로 시작해야 한다고 생각합니다. 이를 위해서는 데이터의 정리 뿐만 아니라, 이를 쿼리 없이 클릭으로 활용 할 수 있는 (e.g. 앰플리튜드 같은) 툴 도입이 필요하다고 생각해요. \n\n데이터의 정리는 3월 중으로 벨이 리드해주시고 계시고요, 이후의 작업은 다른 업무들과의 우선순위를 따져보아야 할 것 같습니다. 참고로, 데이터 팀은 이번 반기 OKR 수립을 포기하고, 3월말까지의 임시 OKR을 수립한 상태입니다. 신규 서비스 개발 및 ARR에 기여하기 위한 다른 팀과의 협업 계획 수립 때문입니다 (앞서 언급한 다른 업무).\n\n\"지표 기반의 사고, 지표 설정해야겠다는 생각\"은 개인 역량 개선의 영역이라고 생각해요. 개인들의 가설 수립 역량의 개선이 필요한데, 방법은 막막하기는 합니다. 제가 인지하기로는 데니스가 이에 대한 얘기를 최소한 PO 챕터에서는 과거부터 반복적으로 얘기를 하신 것으로 알고있는데, 변화가 있었을지는 모르겠지만 느껴지지는 않는 것 같아요.\n지표로 검증한다는 것은 결국 결과로 검증한다는 것이고, 빠른 검증을 위해서는 빠르게 결과에 도달하는 것이 중요합니다. \n만약, 개인의 주관적인 감으로 적합하다는 가설을 수립하기 어렵다면, 감과 경험있는 이가 지식을 부어주거나, 감을 대리로 제시하는 것이 가능 할 것 같아요. start off하는 가설없이 백지부터 시작해야하는 상황이라면 특수한 소수의 케이스 외에는 잘못된 인력배치라고 보는 것이 맞을 것 같아요. \n\n사내에 잠재 고객에 대한 의견을 전달하는 세일즈팀, 확보 고객들에 대한 의견을 전달하는 석세스팀이 존재하고 이들이 정보를 공유하기 위한 여러 활동을 수행하는데에도 고객에 대한 정보가 부족한 상태라고 느낀다면 여러모로 고민해볼 필요가 있습니다. 반대로, 고객에 대한 모든 것을 충분한 정보가 있다면 자신감을 확보 할 수 있다면, 미쳐 개척되지 못한 시장에서, 새로운 제품을 만드는 스타트업 환경에 적합한지를 개인들이 고민해 볼 필요가 있다고 생각해요. 조직적으로는 어떻게든 개인의 부족한 부분을 채워주어야 하는데, 정보가 부족한 상태에서의 낮은 자신감을 극복하는 일종의 개척정신이라는 것이 타인에 의하여 성장가능한 영역인지에 대해서는 회의적이에요.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "올해 전략상 '인사이트' 내지는 '개인 리포트'가 주요 키워드인데요. 이에 대한 Greg의 생각이 궁금합니다.\n모호한 지점이 있지는 않은지, 연말이 되었을 때 유의미한 성과를 만들어냈다고 자평하기 위해 무엇을 잘 챙겨야할지 등등 가볍게, 어떤 측면이든 이야기 나눠보고 싶어요.",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "9월이 sales deadline이고, 그렇다면 6월 정도에 갖고있는 단기적인 제품의 비젼이 현실적으로 올 해 팔아낼 수 있는 제품의 가장 진보된 모습이라고 생각해요. 그렇다면, 앞으로 4개월 동안 완벽하지는 않겠지만, 우리가 생각하는 최선의 비젼을 구성해야하는데, 최선이 아니라 최고를 지향하는 것 같고, 이에 따른 속도가 우려가 되어요.\n저도 마찬가지로 연말이 되었을 때 유의미한 성과를 만들어냈다고 자평하기 위해 무엇을 잘 챙겨야할지 등등 가볍게, 어떤 측면이든 이야기 나눠보고 싶어요.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "변화TF로서, 대니가 생각하는 변화가 필요한 시급하고 중요한 것은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "May 23rd, 2023 (Tue)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "씨니어 엔지니어로서 벨과의 1:1을 통해 느낀 점. (i.e. 씨니어 데이터 엔지니어가 현 상황에서 필요할까?)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "[도움이 필요하다고 느끼는 부분]\n- 실시간성, 안정성을 감안하는 아키텍쳐 설계에 대한 경험이 없어서, 요구사항 상상도 막막해 하는 것 같다 \n- 실제 제품에 적용시, 안정성이 중요해질텐데, 이에 대한 도움이 필요 할 것 같다\n- 벨이 백엔드 엔지니와의 협업을 자주 하면 좋을 것 같다 (이에 백엔드 챕터 미팅 참관 중)\n- 제품에 적용시, 오류 발생시 빠르게 수정이 필요한데, 이런 체계/능력이 갖춰지지는 않은 것 같다\n[리미]\n- 리미와 DE 전환에 대한 얘기 진행\n- 일단 1년 동안은 BE역할을 수행하면서 DE로서의 임팩트를 증명하고 얘기하는 것으로",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "향후 채용 계획 공유 (공유 메모 참조, 하기 내용은 제 개인의 의견이 아니라 벨과 논의를 거친 데이터팀의 의견입니다)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Feb 15th, 2023 (Wed)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "데이터팀과 데이터 엔지니어 채용의 R&R 인식 동기화하기\n→ Greg가 R&R을 가지고 있고, 가져가야 한다고 생각을 하는데 이와 관련해 명확히 커뮤니케이션을 했던 적은 없는 것 같아서요",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "큰 변수\n- 데이터 메쉬\n- 제품적인 요구의 수준과 시점",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "데이터 인프라 구축을 위해 논의 되어야 하는 사항",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 1,
+        "text": "프로덕션 인프라와의 연계\n- 현재의 인프라 구조 \nhttps://www.notion.so/lemonbase/v1-0-3395963a68b748efaadb4c8a638f3366?pvs=4\n- OLTP -> OLAP -> OLTP의 주기 \n(실시간 수집 및 업데이트)",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "데이터팀에서 가지고 있는 계획 동기화하기\n→ 아마 Greg이 언급하신 대시보드/분석/데이터 집계 등과 관련한 내용들일 것 같아요",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 2,
+        "child_index": 1,
+        "text": "WIP인 로드맵 \n\nhttps://www.figma.com/file/92JmBwTYCrPTzZIWKaDRIh/2023-Data-Team-%EB%A1%9C%EB%93%9C%EB%A7%B5?node-id=0%3A1",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "<ACTION ITEM>\n- Chang에게 리뷰의 분석 제품의 범위 및 계획이 개발 / 데이터 엔지니어 채용에 영향을 주는 변수임을 인지시키는 것\n- (Chang) 리뷰의 분석 제품에 대한 계획을 언제까지 공유해주실지 확인하는 것\n\n- 데이터팀에서 인프라적인 고민을 같이 나눌 카운터 파트를 명확히 하는 것: 데이터팀에서 리서치 결과를 공유한 이후 → 실무적으로 함께 대응할 팀 꾸리기",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Aug 1st, 2022 (Mon)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "현재 Greg이 하고 있는 자동화 작업은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "현재 Greg이 하고 있는 데이터 수집은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Greg의 데이터 관련한 가장 큰 고충은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "기타 Greg이 하고 있지만 DE가 있다면 완전히 위임되어야 하는 일은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      },
+      {
+        "block_index": 4,
+        "child_index": 0,
+        "text": "만약 강웅석님이 슬랙 대화에서 말씀드렸던 내용(https://teamlemonbase.slack.com/archives/C03DMLFTHKJ/p1659256984177559?thread_ts=1659062120.082879&cid=C03DMLFTHKJ) 중 1, 2, 3-a 정도를 커버한다는 기대를 가지고 채용하게 된다면, 소속 팀/리더 등은 어떻게 운영되는 게 적절할까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/OLOA4ZXjRq6pSkJcDaIS"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Oct 14th, 2021 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "요즘, 핵심가치 정교화, OKR 등 다양한 주제에 대한 LT의 논의 시, 논의가 길어지고 있는 것 같은 느낌을 간접적으로 받는데요, LT간의 논의 및 LT체제에 대해서 어떻게 생각하시나요? (긍정적인점, 부정적인점)\n\n부연 설명을 하자면, 위에 말씀드린 것처럼 간접적으로 느끼는 부분도 있고, 가비와의 1:1을 통해서 현재 레몬베이스의 규모 및 단계에서, 비젼과 전략을 제시하는 회사 레벨의 리더 역할을 하는 사람이 4명인 경우는 없었던 것 같아, 특수한 사례라고 생각되어 여쭤봅니다.",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "마음대로 회사 내지는 스쿼드의 목표를 설정 할 수 있다면, 오는 4분기 (21년 10월~ 22년 1월)의 목표는 무엇일까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "스쿼드/회사의 우선순위와 상관없이, 개인적으로 진행해보고 싶은 것은 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  },
+  {
+    "meeting_date": "Sep 2nd, 2021 (Thu)",
+    "conversations": [
+      {
+        "block_index": 0,
+        "child_index": 0,
+        "text": "우리의 개발 속도는 충분히 빠르다고 생각하시나요? 그렇지 않다면, 솔직하게 Danny가 생각하는 원인은 무엇이라고 생각하시나요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 0,
+        "child_index": 1,
+        "text": "느리다, 충분한 개선의 여지가 있다. 한화면에 보여지는 정보 및 할 수 있는 행동이 많다 보니, 디자인 시스템과 같은 다양한 가이드라인의 부재가 원인이라고 생각한다",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 1,
+        "child_index": 0,
+        "text": "엔지니어 충원없이 속도를 향상 시킬 수 있는 방법은 없을까요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 2,
+        "child_index": 0,
+        "text": "Danny는 어떤 기대와 꿈을 갖고 레몬베이스에 합류하셨나요? 합류 동기는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      },
+      {
+        "block_index": 3,
+        "child_index": 0,
+        "text": "올해안으로 개인적으로 생각하는 우리팀/우리 회사가 달성했으면 하는 목표 또는 상태는 무엇인가요?",
+        "avatar_url": "https://cdn.filestackcontent.com/vj1KDN5Rmi6cl4MzHmZ2"
+      }
+    ]
+  }
+]
