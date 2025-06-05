@@ -1,3 +1,9 @@
 venv/
 *.pyc
 __pycache__/
+one_on_one_sessions/
+shared_reviews/
+1_1_urls.txt
+review_urls.txt
+test_sessions/
+.DS_Store
